@@ -1,0 +1,1001 @@
+,temp,oxygen,heart beat,prediction,yes/no
+0,105.0,94.0,94.0,no possible risk,0
+1,102.0,92.0,93.0,no possible risk,0
+2,103.0,90.0,129.0,no possible risk,0
+3,98.0,85.0,86.0,need further investigation,2
+4,100.0,87.0,85.0,possible risk,1
+5,102.0,93.0,119.0,no possible risk,0
+6,104.0,96.0,106.0,no possible risk,0
+7,103.0,99.0,128.0,no possible risk,0
+8,98.0,93.0,100.0,no possible risk,0
+9,105.0,91.0,123.0,no possible risk,0
+10,103.0,92.0,107.0,no possible risk,0
+11,99.0,96.0,94.0,no possible risk,0
+12,98.0,90.0,82.0,no possible risk,0
+13,103.0,93.0,127.0,no possible risk,0
+14,99.0,88.0,88.0,need further investigation,2
+15,97.0,86.0,67.0,need further investigation,2
+16,98.0,90.0,62.0,no possible risk,0
+17,102.0,93.0,128.0,no possible risk,0
+18,96.0,94.0,77.0,no possible risk,0
+19,103.0,99.0,81.0,no possible risk,0
+20,99.0,91.0,94.0,no possible risk,0
+21,99.0,89.0,118.0,possible risk,1
+22,96.0,95.0,115.0,no possible risk,0
+23,105.0,88.0,108.0,possible risk,1
+24,100.0,90.0,74.0,no possible risk,0
+25,96.0,93.0,79.0,no possible risk,0
+26,96.0,96.0,68.0,no possible risk,0
+27,101.0,92.0,122.0,no possible risk,0
+28,100.0,96.0,82.0,no possible risk,0
+29,100.0,98.0,107.0,no possible risk,0
+30,99.0,85.0,75.0,need further investigation,2
+31,103.0,99.0,66.0,no possible risk,0
+32,103.0,85.0,64.0,possible risk,1
+33,100.0,85.0,129.0,possible risk,1
+34,98.0,87.0,91.0,possible risk,1
+35,103.0,98.0,120.0,no possible risk,0
+36,101.0,90.0,77.0,no possible risk,0
+37,105.0,94.0,103.0,no possible risk,0
+38,101.0,88.0,75.0,possible risk,1
+39,101.0,94.0,105.0,no possible risk,0
+40,99.0,90.0,121.0,no possible risk,0
+41,96.0,99.0,79.0,no possible risk,0
+42,100.0,94.0,63.0,no possible risk,0
+43,103.0,88.0,93.0,possible risk,1
+44,100.0,95.0,112.0,no possible risk,0
+45,104.0,91.0,123.0,no possible risk,0
+46,104.0,91.0,61.0,no possible risk,0
+47,97.0,96.0,130.0,no possible risk,0
+48,104.0,97.0,83.0,no possible risk,0
+49,101.0,89.0,93.0,possible risk,1
+50,99.0,87.0,118.0,possible risk,1
+51,96.0,94.0,65.0,no possible risk,0
+52,105.0,88.0,85.0,possible risk,1
+53,103.0,85.0,87.0,possible risk,1
+54,102.0,92.0,66.0,no possible risk,0
+55,101.0,97.0,109.0,no possible risk,0
+56,99.0,93.0,74.0,no possible risk,0
+57,99.0,94.0,84.0,no possible risk,0
+58,98.0,85.0,105.0,possible risk,1
+59,100.0,97.0,88.0,no possible risk,0
+60,98.0,88.0,77.0,need further investigation,2
+61,96.0,88.0,92.0,possible risk,1
+62,96.0,96.0,128.0,no possible risk,0
+63,104.0,89.0,112.0,possible risk,1
+64,99.0,89.0,103.0,possible risk,1
+65,104.0,89.0,124.0,possible risk,1
+66,103.0,95.0,128.0,no possible risk,0
+67,104.0,90.0,95.0,no possible risk,0
+68,101.0,90.0,88.0,no possible risk,0
+69,98.0,95.0,123.0,no possible risk,0
+70,102.0,93.0,106.0,no possible risk,0
+71,98.0,88.0,103.0,possible risk,1
+72,104.0,93.0,79.0,no possible risk,0
+73,105.0,91.0,88.0,no possible risk,0
+74,97.0,86.0,68.0,need further investigation,2
+75,102.0,86.0,79.0,possible risk,1
+76,105.0,96.0,63.0,no possible risk,0
+77,103.0,99.0,89.0,no possible risk,0
+78,104.0,98.0,98.0,no possible risk,0
+79,105.0,94.0,129.0,no possible risk,0
+80,101.0,93.0,86.0,no possible risk,0
+81,100.0,98.0,121.0,no possible risk,0
+82,102.0,98.0,83.0,no possible risk,0
+83,104.0,91.0,76.0,no possible risk,0
+84,105.0,92.0,125.0,no possible risk,0
+85,100.0,85.0,62.0,possible risk,1
+86,100.0,92.0,77.0,no possible risk,0
+87,96.0,92.0,94.0,no possible risk,0
+88,105.0,98.0,107.0,no possible risk,0
+89,99.0,97.0,111.0,no possible risk,0
+90,104.0,95.0,105.0,no possible risk,0
+91,99.0,86.0,111.0,possible risk,1
+92,99.0,91.0,92.0,no possible risk,0
+93,96.0,86.0,105.0,possible risk,1
+94,102.0,87.0,84.0,possible risk,1
+95,96.0,96.0,61.0,no possible risk,0
+96,97.0,95.0,113.0,no possible risk,0
+97,99.0,96.0,128.0,no possible risk,0
+98,96.0,96.0,81.0,no possible risk,0
+99,102.0,86.0,105.0,possible risk,1
+100,96.0,91.0,108.0,no possible risk,0
+101,103.0,91.0,101.0,no possible risk,0
+102,104.0,94.0,76.0,no possible risk,0
+103,96.0,88.0,101.0,possible risk,1
+104,97.0,98.0,110.0,no possible risk,0
+105,99.0,87.0,78.0,need further investigation,2
+106,105.0,96.0,113.0,no possible risk,0
+107,98.0,86.0,126.0,possible risk,1
+108,104.0,91.0,77.0,no possible risk,0
+109,103.0,85.0,125.0,possible risk,1
+110,100.0,95.0,71.0,no possible risk,0
+111,96.0,87.0,68.0,need further investigation,2
+112,103.0,91.0,85.0,no possible risk,0
+113,97.0,95.0,76.0,no possible risk,0
+114,97.0,85.0,88.0,need further investigation,2
+115,104.0,86.0,121.0,possible risk,1
+116,104.0,96.0,73.0,no possible risk,0
+117,97.0,89.0,80.0,need further investigation,2
+118,102.0,97.0,74.0,no possible risk,0
+119,96.0,85.0,101.0,possible risk,1
+120,98.0,86.0,106.0,possible risk,1
+121,102.0,86.0,127.0,possible risk,1
+122,105.0,90.0,112.0,no possible risk,0
+123,100.0,90.0,123.0,no possible risk,0
+124,102.0,87.0,61.0,possible risk,1
+125,105.0,86.0,77.0,possible risk,1
+126,100.0,93.0,92.0,no possible risk,0
+127,103.0,98.0,66.0,no possible risk,0
+128,104.0,98.0,124.0,no possible risk,0
+129,101.0,85.0,109.0,possible risk,1
+130,103.0,91.0,110.0,no possible risk,0
+131,96.0,87.0,84.0,need further investigation,2
+132,97.0,89.0,105.0,possible risk,1
+133,98.0,93.0,106.0,no possible risk,0
+134,101.0,85.0,126.0,possible risk,1
+135,102.0,96.0,110.0,no possible risk,0
+136,104.0,85.0,84.0,possible risk,1
+137,100.0,99.0,95.0,no possible risk,0
+138,100.0,86.0,86.0,possible risk,1
+139,101.0,90.0,120.0,no possible risk,0
+140,98.0,85.0,88.0,need further investigation,2
+141,105.0,86.0,108.0,possible risk,1
+142,99.0,96.0,101.0,no possible risk,0
+143,96.0,94.0,125.0,no possible risk,0
+144,100.0,92.0,75.0,no possible risk,0
+145,103.0,89.0,66.0,possible risk,1
+146,98.0,98.0,86.0,no possible risk,0
+147,97.0,99.0,112.0,no possible risk,0
+148,105.0,94.0,106.0,no possible risk,0
+149,96.0,90.0,125.0,no possible risk,0
+150,102.0,95.0,113.0,no possible risk,0
+151,102.0,87.0,67.0,possible risk,1
+152,100.0,97.0,75.0,no possible risk,0
+153,102.0,93.0,89.0,no possible risk,0
+154,105.0,99.0,122.0,no possible risk,0
+155,96.0,95.0,122.0,no possible risk,0
+156,96.0,90.0,110.0,no possible risk,0
+157,98.0,93.0,106.0,no possible risk,0
+158,100.0,92.0,104.0,no possible risk,0
+159,99.0,88.0,74.0,need further investigation,2
+160,97.0,93.0,67.0,no possible risk,0
+161,96.0,91.0,94.0,no possible risk,0
+162,100.0,97.0,105.0,no possible risk,0
+163,96.0,93.0,119.0,no possible risk,0
+164,97.0,86.0,103.0,possible risk,1
+165,100.0,90.0,68.0,no possible risk,0
+166,98.0,88.0,97.0,possible risk,1
+167,99.0,88.0,77.0,need further investigation,2
+168,100.0,96.0,92.0,no possible risk,0
+169,97.0,97.0,94.0,no possible risk,0
+170,105.0,93.0,66.0,no possible risk,0
+171,105.0,89.0,98.0,possible risk,1
+172,101.0,95.0,127.0,no possible risk,0
+173,99.0,90.0,85.0,no possible risk,0
+174,98.0,97.0,91.0,no possible risk,0
+175,104.0,95.0,127.0,no possible risk,0
+176,96.0,99.0,118.0,no possible risk,0
+177,100.0,85.0,90.0,possible risk,1
+178,105.0,99.0,117.0,no possible risk,0
+179,99.0,94.0,62.0,no possible risk,0
+180,100.0,96.0,73.0,no possible risk,0
+181,103.0,90.0,76.0,no possible risk,0
+182,99.0,89.0,120.0,possible risk,1
+183,98.0,85.0,119.0,possible risk,1
+184,102.0,93.0,105.0,no possible risk,0
+185,97.0,87.0,84.0,need further investigation,2
+186,102.0,86.0,78.0,possible risk,1
+187,103.0,94.0,76.0,no possible risk,0
+188,99.0,95.0,129.0,no possible risk,0
+189,96.0,95.0,100.0,no possible risk,0
+190,96.0,99.0,79.0,no possible risk,0
+191,96.0,92.0,61.0,no possible risk,0
+192,103.0,86.0,62.0,possible risk,1
+193,104.0,95.0,90.0,no possible risk,0
+194,103.0,99.0,102.0,no possible risk,0
+195,103.0,85.0,123.0,possible risk,1
+196,102.0,85.0,110.0,possible risk,1
+197,101.0,87.0,70.0,possible risk,1
+198,102.0,85.0,77.0,possible risk,1
+199,102.0,88.0,104.0,possible risk,1
+200,104.0,93.0,107.0,no possible risk,0
+201,101.0,87.0,116.0,possible risk,1
+202,97.0,86.0,122.0,possible risk,1
+203,102.0,85.0,96.0,possible risk,1
+204,100.0,87.0,126.0,possible risk,1
+205,97.0,89.0,89.0,need further investigation,2
+206,99.0,97.0,69.0,no possible risk,0
+207,101.0,92.0,124.0,no possible risk,0
+208,105.0,94.0,65.0,no possible risk,0
+209,101.0,87.0,127.0,possible risk,1
+210,101.0,87.0,66.0,possible risk,1
+211,99.0,99.0,81.0,no possible risk,0
+212,100.0,96.0,99.0,no possible risk,0
+213,99.0,95.0,130.0,no possible risk,0
+214,101.0,92.0,123.0,no possible risk,0
+215,104.0,94.0,60.0,no possible risk,0
+216,99.0,91.0,101.0,no possible risk,0
+217,103.0,92.0,126.0,no possible risk,0
+218,101.0,85.0,126.0,possible risk,1
+219,97.0,95.0,124.0,no possible risk,0
+220,104.0,86.0,121.0,possible risk,1
+221,100.0,92.0,125.0,no possible risk,0
+222,105.0,92.0,86.0,no possible risk,0
+223,104.0,94.0,117.0,no possible risk,0
+224,103.0,90.0,73.0,no possible risk,0
+225,99.0,89.0,81.0,need further investigation,2
+226,96.0,97.0,86.0,no possible risk,0
+227,96.0,94.0,63.0,no possible risk,0
+228,104.0,96.0,106.0,no possible risk,0
+229,103.0,91.0,128.0,no possible risk,0
+230,98.0,88.0,68.0,need further investigation,2
+231,105.0,85.0,122.0,possible risk,1
+232,104.0,87.0,60.0,possible risk,1
+233,103.0,90.0,89.0,no possible risk,0
+234,100.0,92.0,96.0,no possible risk,0
+235,98.0,90.0,93.0,no possible risk,0
+236,99.0,88.0,123.0,possible risk,1
+237,103.0,91.0,75.0,no possible risk,0
+238,100.0,98.0,91.0,no possible risk,0
+239,97.0,98.0,124.0,no possible risk,0
+240,101.0,87.0,60.0,possible risk,1
+241,97.0,95.0,121.0,no possible risk,0
+242,102.0,91.0,83.0,no possible risk,0
+243,100.0,85.0,129.0,possible risk,1
+244,97.0,87.0,64.0,need further investigation,2
+245,104.0,95.0,77.0,no possible risk,0
+246,99.0,91.0,127.0,no possible risk,0
+247,96.0,90.0,129.0,no possible risk,0
+248,103.0,96.0,80.0,no possible risk,0
+249,99.0,90.0,106.0,no possible risk,0
+250,102.0,85.0,114.0,possible risk,1
+251,97.0,99.0,90.0,no possible risk,0
+252,105.0,92.0,107.0,no possible risk,0
+253,104.0,99.0,73.0,no possible risk,0
+254,97.0,85.0,108.0,possible risk,1
+255,99.0,86.0,99.0,possible risk,1
+256,101.0,95.0,83.0,no possible risk,0
+257,98.0,96.0,103.0,no possible risk,0
+258,99.0,98.0,103.0,no possible risk,0
+259,100.0,88.0,81.0,possible risk,1
+260,101.0,90.0,89.0,no possible risk,0
+261,101.0,96.0,122.0,no possible risk,0
+262,97.0,93.0,89.0,no possible risk,0
+263,100.0,89.0,110.0,possible risk,1
+264,102.0,91.0,102.0,no possible risk,0
+265,103.0,85.0,102.0,possible risk,1
+266,100.0,95.0,100.0,no possible risk,0
+267,98.0,95.0,116.0,no possible risk,0
+268,103.0,93.0,69.0,no possible risk,0
+269,103.0,99.0,66.0,no possible risk,0
+270,97.0,87.0,114.0,possible risk,1
+271,103.0,91.0,104.0,no possible risk,0
+272,101.0,96.0,63.0,no possible risk,0
+273,100.0,94.0,74.0,no possible risk,0
+274,104.0,96.0,112.0,no possible risk,0
+275,101.0,88.0,66.0,possible risk,1
+276,98.0,89.0,93.0,possible risk,1
+277,100.0,86.0,86.0,possible risk,1
+278,98.0,98.0,119.0,no possible risk,0
+279,99.0,99.0,61.0,no possible risk,0
+280,97.0,88.0,65.0,need further investigation,2
+281,100.0,85.0,75.0,possible risk,1
+282,102.0,93.0,92.0,no possible risk,0
+283,102.0,90.0,81.0,no possible risk,0
+284,102.0,94.0,86.0,no possible risk,0
+285,103.0,99.0,124.0,no possible risk,0
+286,102.0,96.0,100.0,no possible risk,0
+287,104.0,97.0,61.0,no possible risk,0
+288,97.0,92.0,88.0,no possible risk,0
+289,104.0,88.0,89.0,possible risk,1
+290,101.0,90.0,64.0,no possible risk,0
+291,98.0,87.0,98.0,possible risk,1
+292,104.0,93.0,115.0,no possible risk,0
+293,104.0,87.0,105.0,possible risk,1
+294,100.0,97.0,75.0,no possible risk,0
+295,104.0,97.0,95.0,no possible risk,0
+296,101.0,85.0,62.0,possible risk,1
+297,99.0,86.0,84.0,need further investigation,2
+298,96.0,98.0,69.0,no possible risk,0
+299,97.0,92.0,113.0,no possible risk,0
+300,101.0,86.0,87.0,possible risk,1
+301,105.0,87.0,101.0,possible risk,1
+302,100.0,99.0,118.0,no possible risk,0
+303,104.0,92.0,127.0,no possible risk,0
+304,103.0,94.0,82.0,no possible risk,0
+305,102.0,89.0,73.0,possible risk,1
+306,99.0,89.0,91.0,possible risk,1
+307,101.0,89.0,111.0,possible risk,1
+308,97.0,91.0,90.0,no possible risk,0
+309,101.0,89.0,124.0,possible risk,1
+310,99.0,94.0,83.0,no possible risk,0
+311,100.0,92.0,65.0,no possible risk,0
+312,104.0,95.0,129.0,no possible risk,0
+313,101.0,88.0,95.0,possible risk,1
+314,102.0,88.0,110.0,possible risk,1
+315,98.0,95.0,109.0,no possible risk,0
+316,99.0,97.0,79.0,no possible risk,0
+317,105.0,93.0,129.0,no possible risk,0
+318,103.0,90.0,104.0,no possible risk,0
+319,103.0,89.0,99.0,possible risk,1
+320,103.0,99.0,102.0,no possible risk,0
+321,105.0,98.0,128.0,no possible risk,0
+322,102.0,97.0,106.0,no possible risk,0
+323,102.0,95.0,115.0,no possible risk,0
+324,99.0,94.0,76.0,no possible risk,0
+325,99.0,85.0,130.0,possible risk,1
+326,96.0,91.0,116.0,no possible risk,0
+327,97.0,95.0,113.0,no possible risk,0
+328,98.0,91.0,83.0,no possible risk,0
+329,104.0,99.0,84.0,no possible risk,0
+330,98.0,99.0,115.0,no possible risk,0
+331,102.0,96.0,98.0,no possible risk,0
+332,98.0,87.0,85.0,need further investigation,2
+333,96.0,99.0,93.0,no possible risk,0
+334,104.0,95.0,63.0,no possible risk,0
+335,101.0,85.0,122.0,possible risk,1
+336,102.0,91.0,73.0,no possible risk,0
+337,98.0,86.0,92.0,possible risk,1
+338,96.0,99.0,117.0,no possible risk,0
+339,103.0,86.0,124.0,possible risk,1
+340,101.0,87.0,109.0,possible risk,1
+341,98.0,96.0,112.0,no possible risk,0
+342,102.0,87.0,126.0,possible risk,1
+343,96.0,85.0,83.0,need further investigation,2
+344,103.0,96.0,127.0,no possible risk,0
+345,96.0,96.0,71.0,no possible risk,0
+346,98.0,89.0,82.0,need further investigation,2
+347,96.0,95.0,63.0,no possible risk,0
+348,100.0,97.0,66.0,no possible risk,0
+349,98.0,90.0,84.0,no possible risk,0
+350,100.0,87.0,120.0,possible risk,1
+351,105.0,91.0,75.0,no possible risk,0
+352,97.0,88.0,100.0,possible risk,1
+353,101.0,92.0,104.0,no possible risk,0
+354,97.0,87.0,69.0,need further investigation,2
+355,104.0,98.0,81.0,no possible risk,0
+356,96.0,90.0,108.0,no possible risk,0
+357,99.0,88.0,91.0,possible risk,1
+358,105.0,93.0,64.0,no possible risk,0
+359,105.0,90.0,62.0,no possible risk,0
+360,101.0,87.0,70.0,possible risk,1
+361,97.0,93.0,108.0,no possible risk,0
+362,96.0,88.0,124.0,possible risk,1
+363,104.0,89.0,117.0,possible risk,1
+364,105.0,94.0,102.0,no possible risk,0
+365,98.0,91.0,75.0,no possible risk,0
+366,103.0,97.0,87.0,no possible risk,0
+367,100.0,88.0,98.0,possible risk,1
+368,101.0,92.0,77.0,no possible risk,0
+369,103.0,90.0,104.0,no possible risk,0
+370,100.0,87.0,88.0,possible risk,1
+371,96.0,88.0,102.0,possible risk,1
+372,105.0,88.0,116.0,possible risk,1
+373,104.0,99.0,107.0,no possible risk,0
+374,101.0,97.0,102.0,no possible risk,0
+375,105.0,90.0,88.0,no possible risk,0
+376,97.0,89.0,120.0,possible risk,1
+377,97.0,99.0,62.0,no possible risk,0
+378,104.0,99.0,79.0,no possible risk,0
+379,104.0,91.0,61.0,no possible risk,0
+380,100.0,89.0,129.0,possible risk,1
+381,97.0,99.0,93.0,no possible risk,0
+382,101.0,91.0,62.0,no possible risk,0
+383,102.0,86.0,94.0,possible risk,1
+384,97.0,96.0,98.0,no possible risk,0
+385,99.0,93.0,97.0,no possible risk,0
+386,104.0,99.0,60.0,no possible risk,0
+387,105.0,87.0,127.0,possible risk,1
+388,103.0,95.0,67.0,no possible risk,0
+389,97.0,92.0,62.0,no possible risk,0
+390,97.0,96.0,78.0,no possible risk,0
+391,97.0,97.0,62.0,no possible risk,0
+392,100.0,96.0,116.0,no possible risk,0
+393,103.0,99.0,78.0,no possible risk,0
+394,105.0,89.0,87.0,possible risk,1
+395,104.0,86.0,67.0,possible risk,1
+396,104.0,94.0,61.0,no possible risk,0
+397,102.0,85.0,79.0,possible risk,1
+398,99.0,87.0,128.0,possible risk,1
+399,96.0,86.0,118.0,possible risk,1
+400,100.0,97.0,101.0,no possible risk,0
+401,105.0,97.0,111.0,no possible risk,0
+402,104.0,97.0,107.0,no possible risk,0
+403,96.0,90.0,66.0,no possible risk,0
+404,101.0,90.0,102.0,no possible risk,0
+405,98.0,99.0,75.0,no possible risk,0
+406,103.0,96.0,77.0,no possible risk,0
+407,96.0,94.0,86.0,no possible risk,0
+408,100.0,98.0,75.0,no possible risk,0
+409,101.0,85.0,72.0,possible risk,1
+410,103.0,94.0,83.0,no possible risk,0
+411,103.0,88.0,79.0,possible risk,1
+412,97.0,90.0,79.0,no possible risk,0
+413,98.0,85.0,119.0,possible risk,1
+414,96.0,96.0,77.0,no possible risk,0
+415,101.0,96.0,61.0,no possible risk,0
+416,97.0,95.0,80.0,no possible risk,0
+417,105.0,91.0,121.0,no possible risk,0
+418,103.0,98.0,100.0,no possible risk,0
+419,97.0,89.0,94.0,possible risk,1
+420,98.0,91.0,113.0,no possible risk,0
+421,103.0,89.0,122.0,possible risk,1
+422,104.0,99.0,129.0,no possible risk,0
+423,103.0,94.0,120.0,no possible risk,0
+424,100.0,89.0,122.0,possible risk,1
+425,104.0,93.0,118.0,no possible risk,0
+426,105.0,89.0,99.0,possible risk,1
+427,96.0,91.0,126.0,no possible risk,0
+428,98.0,85.0,126.0,possible risk,1
+429,100.0,95.0,79.0,no possible risk,0
+430,97.0,93.0,87.0,no possible risk,0
+431,99.0,90.0,66.0,no possible risk,0
+432,104.0,93.0,73.0,no possible risk,0
+433,96.0,91.0,119.0,no possible risk,0
+434,105.0,95.0,121.0,no possible risk,0
+435,97.0,93.0,117.0,no possible risk,0
+436,103.0,91.0,113.0,no possible risk,0
+437,97.0,92.0,64.0,no possible risk,0
+438,101.0,85.0,85.0,possible risk,1
+439,101.0,93.0,68.0,no possible risk,0
+440,103.0,97.0,122.0,no possible risk,0
+441,98.0,99.0,75.0,no possible risk,0
+442,96.0,85.0,130.0,possible risk,1
+443,100.0,86.0,64.0,possible risk,1
+444,100.0,87.0,94.0,possible risk,1
+445,104.0,92.0,102.0,no possible risk,0
+446,96.0,98.0,82.0,no possible risk,0
+447,101.0,86.0,93.0,possible risk,1
+448,98.0,94.0,124.0,no possible risk,0
+449,104.0,92.0,75.0,no possible risk,0
+450,100.0,93.0,60.0,no possible risk,0
+451,101.0,97.0,125.0,no possible risk,0
+452,99.0,94.0,78.0,no possible risk,0
+453,97.0,98.0,92.0,no possible risk,0
+454,97.0,96.0,116.0,no possible risk,0
+455,103.0,96.0,73.0,no possible risk,0
+456,99.0,87.0,78.0,need further investigation,2
+457,97.0,91.0,113.0,no possible risk,0
+458,105.0,88.0,97.0,possible risk,1
+459,96.0,98.0,124.0,no possible risk,0
+460,103.0,90.0,80.0,no possible risk,0
+461,100.0,87.0,79.0,possible risk,1
+462,102.0,90.0,65.0,no possible risk,0
+463,97.0,93.0,66.0,no possible risk,0
+464,102.0,96.0,82.0,no possible risk,0
+465,101.0,85.0,79.0,possible risk,1
+466,96.0,90.0,116.0,no possible risk,0
+467,99.0,92.0,70.0,no possible risk,0
+468,96.0,94.0,110.0,no possible risk,0
+469,100.0,96.0,83.0,no possible risk,0
+470,100.0,93.0,88.0,no possible risk,0
+471,99.0,85.0,85.0,need further investigation,2
+472,100.0,98.0,100.0,no possible risk,0
+473,104.0,96.0,124.0,no possible risk,0
+474,102.0,86.0,102.0,possible risk,1
+475,104.0,95.0,62.0,no possible risk,0
+476,101.0,93.0,70.0,no possible risk,0
+477,97.0,94.0,70.0,no possible risk,0
+478,97.0,98.0,96.0,no possible risk,0
+479,97.0,96.0,124.0,no possible risk,0
+480,105.0,92.0,113.0,no possible risk,0
+481,102.0,89.0,73.0,possible risk,1
+482,104.0,98.0,101.0,no possible risk,0
+483,102.0,94.0,126.0,no possible risk,0
+484,102.0,91.0,109.0,no possible risk,0
+485,100.0,90.0,85.0,no possible risk,0
+486,99.0,90.0,86.0,no possible risk,0
+487,104.0,86.0,61.0,possible risk,1
+488,104.0,94.0,65.0,no possible risk,0
+489,97.0,88.0,107.0,possible risk,1
+490,97.0,99.0,115.0,no possible risk,0
+491,102.0,86.0,102.0,possible risk,1
+492,104.0,91.0,71.0,no possible risk,0
+493,104.0,90.0,104.0,no possible risk,0
+494,103.0,85.0,105.0,possible risk,1
+495,104.0,94.0,91.0,no possible risk,0
+496,99.0,91.0,114.0,no possible risk,0
+497,100.0,98.0,108.0,no possible risk,0
+498,99.0,92.0,122.0,no possible risk,0
+499,99.0,86.0,104.0,possible risk,1
+500,99.0,86.0,81.0,need further investigation,2
+501,103.0,92.0,117.0,no possible risk,0
+502,98.0,88.0,74.0,need further investigation,2
+503,105.0,94.0,77.0,no possible risk,0
+504,102.0,97.0,72.0,no possible risk,0
+505,98.0,90.0,87.0,no possible risk,0
+506,102.0,91.0,88.0,no possible risk,0
+507,102.0,91.0,75.0,no possible risk,0
+508,105.0,96.0,96.0,no possible risk,0
+509,99.0,97.0,96.0,no possible risk,0
+510,98.0,90.0,129.0,no possible risk,0
+511,96.0,95.0,111.0,no possible risk,0
+512,105.0,92.0,128.0,no possible risk,0
+513,103.0,90.0,114.0,no possible risk,0
+514,103.0,88.0,70.0,possible risk,1
+515,98.0,97.0,79.0,no possible risk,0
+516,99.0,87.0,68.0,need further investigation,2
+517,104.0,87.0,62.0,possible risk,1
+518,96.0,99.0,108.0,no possible risk,0
+519,96.0,92.0,123.0,no possible risk,0
+520,105.0,91.0,75.0,no possible risk,0
+521,103.0,95.0,93.0,no possible risk,0
+522,101.0,86.0,103.0,possible risk,1
+523,97.0,93.0,126.0,no possible risk,0
+524,97.0,89.0,91.0,possible risk,1
+525,99.0,85.0,79.0,need further investigation,2
+526,100.0,94.0,94.0,no possible risk,0
+527,99.0,87.0,82.0,need further investigation,2
+528,99.0,95.0,91.0,no possible risk,0
+529,97.0,85.0,78.0,need further investigation,2
+530,96.0,94.0,72.0,no possible risk,0
+531,102.0,86.0,105.0,possible risk,1
+532,104.0,89.0,78.0,possible risk,1
+533,105.0,86.0,104.0,possible risk,1
+534,103.0,92.0,70.0,no possible risk,0
+535,100.0,88.0,108.0,possible risk,1
+536,99.0,96.0,124.0,no possible risk,0
+537,97.0,93.0,122.0,no possible risk,0
+538,100.0,96.0,119.0,no possible risk,0
+539,105.0,88.0,81.0,possible risk,1
+540,99.0,97.0,125.0,no possible risk,0
+541,98.0,86.0,84.0,need further investigation,2
+542,103.0,99.0,113.0,no possible risk,0
+543,103.0,97.0,77.0,no possible risk,0
+544,99.0,85.0,110.0,possible risk,1
+545,100.0,85.0,84.0,possible risk,1
+546,102.0,91.0,119.0,no possible risk,0
+547,99.0,86.0,114.0,possible risk,1
+548,102.0,94.0,126.0,no possible risk,0
+549,96.0,99.0,81.0,no possible risk,0
+550,96.0,87.0,123.0,possible risk,1
+551,100.0,96.0,95.0,no possible risk,0
+552,104.0,91.0,72.0,no possible risk,0
+553,99.0,96.0,127.0,no possible risk,0
+554,96.0,95.0,129.0,no possible risk,0
+555,105.0,93.0,93.0,no possible risk,0
+556,102.0,87.0,92.0,possible risk,1
+557,99.0,86.0,130.0,possible risk,1
+558,97.0,98.0,77.0,no possible risk,0
+559,100.0,86.0,101.0,possible risk,1
+560,97.0,88.0,99.0,possible risk,1
+561,103.0,93.0,63.0,no possible risk,0
+562,103.0,93.0,113.0,no possible risk,0
+563,104.0,98.0,81.0,no possible risk,0
+564,96.0,97.0,107.0,no possible risk,0
+565,104.0,87.0,121.0,possible risk,1
+566,105.0,97.0,67.0,no possible risk,0
+567,99.0,90.0,101.0,no possible risk,0
+568,100.0,87.0,124.0,possible risk,1
+569,97.0,98.0,99.0,no possible risk,0
+570,102.0,96.0,70.0,no possible risk,0
+571,100.0,99.0,62.0,no possible risk,0
+572,97.0,94.0,98.0,no possible risk,0
+573,99.0,88.0,113.0,possible risk,1
+574,100.0,95.0,73.0,no possible risk,0
+575,99.0,85.0,108.0,possible risk,1
+576,104.0,98.0,83.0,no possible risk,0
+577,105.0,92.0,111.0,no possible risk,0
+578,96.0,88.0,117.0,possible risk,1
+579,101.0,99.0,69.0,no possible risk,0
+580,97.0,85.0,85.0,need further investigation,2
+581,101.0,91.0,74.0,no possible risk,0
+582,100.0,95.0,87.0,no possible risk,0
+583,99.0,93.0,73.0,no possible risk,0
+584,105.0,97.0,83.0,no possible risk,0
+585,98.0,98.0,61.0,no possible risk,0
+586,99.0,98.0,129.0,no possible risk,0
+587,99.0,87.0,109.0,possible risk,1
+588,99.0,87.0,95.0,possible risk,1
+589,102.0,92.0,89.0,no possible risk,0
+590,97.0,90.0,71.0,no possible risk,0
+591,98.0,97.0,125.0,no possible risk,0
+592,103.0,98.0,111.0,no possible risk,0
+593,105.0,96.0,106.0,no possible risk,0
+594,98.0,91.0,116.0,no possible risk,0
+595,100.0,86.0,86.0,possible risk,1
+596,102.0,94.0,88.0,no possible risk,0
+597,101.0,94.0,71.0,no possible risk,0
+598,102.0,92.0,109.0,no possible risk,0
+599,99.0,96.0,101.0,no possible risk,0
+600,101.0,95.0,67.0,no possible risk,0
+601,100.0,91.0,105.0,no possible risk,0
+602,96.0,89.0,112.0,possible risk,1
+603,98.0,93.0,76.0,no possible risk,0
+604,100.0,85.0,129.0,possible risk,1
+605,104.0,97.0,99.0,no possible risk,0
+606,97.0,89.0,118.0,possible risk,1
+607,103.0,88.0,118.0,possible risk,1
+608,105.0,88.0,80.0,possible risk,1
+609,105.0,91.0,130.0,no possible risk,0
+610,96.0,95.0,63.0,no possible risk,0
+611,105.0,88.0,60.0,possible risk,1
+612,96.0,93.0,117.0,no possible risk,0
+613,97.0,96.0,68.0,no possible risk,0
+614,96.0,89.0,114.0,possible risk,1
+615,100.0,98.0,100.0,no possible risk,0
+616,104.0,95.0,67.0,no possible risk,0
+617,101.0,87.0,111.0,possible risk,1
+618,97.0,85.0,65.0,need further investigation,2
+619,101.0,91.0,81.0,no possible risk,0
+620,103.0,98.0,110.0,no possible risk,0
+621,105.0,88.0,60.0,possible risk,1
+622,103.0,99.0,91.0,no possible risk,0
+623,99.0,91.0,107.0,no possible risk,0
+624,97.0,90.0,101.0,no possible risk,0
+625,99.0,96.0,125.0,no possible risk,0
+626,105.0,92.0,81.0,no possible risk,0
+627,102.0,91.0,74.0,no possible risk,0
+628,96.0,91.0,66.0,no possible risk,0
+629,104.0,93.0,73.0,no possible risk,0
+630,101.0,86.0,106.0,possible risk,1
+631,100.0,86.0,117.0,possible risk,1
+632,100.0,98.0,63.0,no possible risk,0
+633,103.0,91.0,95.0,no possible risk,0
+634,97.0,91.0,115.0,no possible risk,0
+635,97.0,88.0,120.0,possible risk,1
+636,101.0,90.0,105.0,no possible risk,0
+637,98.0,88.0,78.0,need further investigation,2
+638,96.0,99.0,120.0,no possible risk,0
+639,105.0,88.0,93.0,possible risk,1
+640,98.0,95.0,71.0,no possible risk,0
+641,101.0,86.0,99.0,possible risk,1
+642,98.0,89.0,70.0,need further investigation,2
+643,96.0,96.0,64.0,no possible risk,0
+644,100.0,85.0,61.0,possible risk,1
+645,105.0,90.0,100.0,no possible risk,0
+646,100.0,93.0,121.0,no possible risk,0
+647,104.0,99.0,94.0,no possible risk,0
+648,96.0,98.0,113.0,no possible risk,0
+649,103.0,95.0,124.0,no possible risk,0
+650,97.0,92.0,78.0,no possible risk,0
+651,97.0,94.0,128.0,no possible risk,0
+652,96.0,87.0,84.0,need further investigation,2
+653,96.0,89.0,83.0,need further investigation,2
+654,98.0,99.0,95.0,no possible risk,0
+655,96.0,91.0,61.0,no possible risk,0
+656,99.0,93.0,99.0,no possible risk,0
+657,104.0,90.0,102.0,no possible risk,0
+658,98.0,91.0,105.0,no possible risk,0
+659,102.0,90.0,86.0,no possible risk,0
+660,103.0,88.0,90.0,possible risk,1
+661,101.0,95.0,124.0,no possible risk,0
+662,102.0,96.0,78.0,no possible risk,0
+663,104.0,91.0,101.0,no possible risk,0
+664,97.0,87.0,94.0,possible risk,1
+665,104.0,93.0,77.0,no possible risk,0
+666,98.0,85.0,60.0,need further investigation,2
+667,101.0,96.0,128.0,no possible risk,0
+668,103.0,93.0,109.0,no possible risk,0
+669,99.0,86.0,71.0,need further investigation,2
+670,98.0,93.0,70.0,no possible risk,0
+671,104.0,98.0,79.0,no possible risk,0
+672,100.0,94.0,75.0,no possible risk,0
+673,100.0,98.0,104.0,no possible risk,0
+674,101.0,90.0,106.0,no possible risk,0
+675,104.0,90.0,86.0,no possible risk,0
+676,102.0,85.0,111.0,possible risk,1
+677,98.0,88.0,109.0,possible risk,1
+678,96.0,97.0,86.0,no possible risk,0
+679,97.0,85.0,85.0,need further investigation,2
+680,100.0,95.0,92.0,no possible risk,0
+681,99.0,88.0,100.0,possible risk,1
+682,96.0,93.0,108.0,no possible risk,0
+683,104.0,86.0,94.0,possible risk,1
+684,97.0,85.0,72.0,need further investigation,2
+685,102.0,95.0,86.0,no possible risk,0
+686,102.0,90.0,84.0,no possible risk,0
+687,105.0,97.0,61.0,no possible risk,0
+688,103.0,96.0,107.0,no possible risk,0
+689,100.0,95.0,120.0,no possible risk,0
+690,99.0,99.0,90.0,no possible risk,0
+691,104.0,85.0,84.0,possible risk,1
+692,100.0,91.0,126.0,no possible risk,0
+693,97.0,95.0,129.0,no possible risk,0
+694,105.0,92.0,85.0,no possible risk,0
+695,101.0,88.0,105.0,possible risk,1
+696,105.0,86.0,85.0,possible risk,1
+697,105.0,93.0,81.0,no possible risk,0
+698,102.0,90.0,125.0,no possible risk,0
+699,97.0,94.0,126.0,no possible risk,0
+700,99.0,91.0,75.0,no possible risk,0
+701,105.0,87.0,102.0,possible risk,1
+702,101.0,99.0,70.0,no possible risk,0
+703,105.0,88.0,84.0,possible risk,1
+704,104.0,98.0,84.0,no possible risk,0
+705,99.0,92.0,90.0,no possible risk,0
+706,100.0,95.0,80.0,no possible risk,0
+707,97.0,86.0,81.0,need further investigation,2
+708,102.0,94.0,100.0,no possible risk,0
+709,105.0,89.0,95.0,possible risk,1
+710,98.0,85.0,128.0,possible risk,1
+711,101.0,98.0,105.0,no possible risk,0
+712,100.0,95.0,121.0,no possible risk,0
+713,100.0,94.0,111.0,no possible risk,0
+714,101.0,87.0,121.0,possible risk,1
+715,105.0,95.0,120.0,no possible risk,0
+716,102.0,97.0,74.0,no possible risk,0
+717,103.0,99.0,87.0,no possible risk,0
+718,104.0,95.0,102.0,no possible risk,0
+719,102.0,91.0,66.0,no possible risk,0
+720,102.0,91.0,126.0,no possible risk,0
+721,102.0,91.0,127.0,no possible risk,0
+722,104.0,98.0,75.0,no possible risk,0
+723,98.0,93.0,118.0,no possible risk,0
+724,99.0,96.0,115.0,no possible risk,0
+725,105.0,92.0,68.0,no possible risk,0
+726,100.0,90.0,83.0,no possible risk,0
+727,101.0,96.0,95.0,no possible risk,0
+728,100.0,91.0,62.0,no possible risk,0
+729,100.0,98.0,78.0,no possible risk,0
+730,101.0,93.0,75.0,no possible risk,0
+731,105.0,90.0,73.0,no possible risk,0
+732,102.0,89.0,74.0,possible risk,1
+733,105.0,90.0,71.0,no possible risk,0
+734,97.0,95.0,119.0,no possible risk,0
+735,102.0,89.0,75.0,possible risk,1
+736,104.0,97.0,113.0,no possible risk,0
+737,97.0,86.0,66.0,need further investigation,2
+738,98.0,98.0,110.0,no possible risk,0
+739,102.0,92.0,108.0,no possible risk,0
+740,102.0,98.0,117.0,no possible risk,0
+741,100.0,86.0,63.0,possible risk,1
+742,105.0,96.0,80.0,no possible risk,0
+743,99.0,93.0,115.0,no possible risk,0
+744,97.0,88.0,121.0,possible risk,1
+745,102.0,96.0,65.0,no possible risk,0
+746,99.0,99.0,85.0,no possible risk,0
+747,100.0,97.0,128.0,no possible risk,0
+748,96.0,89.0,119.0,possible risk,1
+749,101.0,89.0,99.0,possible risk,1
+750,98.0,89.0,84.0,need further investigation,2
+751,97.0,88.0,70.0,need further investigation,2
+752,99.0,96.0,125.0,no possible risk,0
+753,98.0,88.0,114.0,possible risk,1
+754,98.0,98.0,74.0,no possible risk,0
+755,98.0,92.0,115.0,no possible risk,0
+756,101.0,98.0,78.0,no possible risk,0
+757,96.0,86.0,95.0,possible risk,1
+758,101.0,86.0,87.0,possible risk,1
+759,103.0,91.0,112.0,no possible risk,0
+760,103.0,89.0,125.0,possible risk,1
+761,97.0,93.0,115.0,no possible risk,0
+762,103.0,89.0,72.0,possible risk,1
+763,99.0,87.0,93.0,possible risk,1
+764,100.0,91.0,100.0,no possible risk,0
+765,102.0,91.0,122.0,no possible risk,0
+766,96.0,86.0,122.0,possible risk,1
+767,99.0,96.0,94.0,no possible risk,0
+768,105.0,91.0,94.0,no possible risk,0
+769,104.0,86.0,115.0,possible risk,1
+770,98.0,85.0,79.0,need further investigation,2
+771,102.0,87.0,112.0,possible risk,1
+772,102.0,98.0,100.0,no possible risk,0
+773,102.0,91.0,95.0,no possible risk,0
+774,103.0,85.0,79.0,possible risk,1
+775,103.0,91.0,68.0,no possible risk,0
+776,100.0,87.0,127.0,possible risk,1
+777,97.0,86.0,110.0,possible risk,1
+778,100.0,89.0,68.0,possible risk,1
+779,99.0,92.0,77.0,no possible risk,0
+780,104.0,96.0,64.0,no possible risk,0
+781,102.0,86.0,112.0,possible risk,1
+782,104.0,90.0,96.0,no possible risk,0
+783,104.0,92.0,101.0,no possible risk,0
+784,105.0,91.0,66.0,no possible risk,0
+785,96.0,96.0,63.0,no possible risk,0
+786,99.0,89.0,101.0,possible risk,1
+787,103.0,88.0,94.0,possible risk,1
+788,102.0,97.0,80.0,no possible risk,0
+789,98.0,92.0,93.0,no possible risk,0
+790,99.0,98.0,101.0,no possible risk,0
+791,96.0,95.0,79.0,no possible risk,0
+792,98.0,96.0,74.0,no possible risk,0
+793,102.0,87.0,104.0,possible risk,1
+794,97.0,96.0,85.0,no possible risk,0
+795,100.0,87.0,103.0,possible risk,1
+796,99.0,85.0,121.0,possible risk,1
+797,100.0,98.0,101.0,no possible risk,0
+798,102.0,88.0,86.0,possible risk,1
+799,105.0,99.0,78.0,no possible risk,0
+800,99.0,88.0,74.0,need further investigation,2
+801,104.0,94.0,88.0,no possible risk,0
+802,103.0,97.0,75.0,no possible risk,0
+803,102.0,99.0,104.0,no possible risk,0
+804,104.0,90.0,87.0,no possible risk,0
+805,105.0,97.0,82.0,no possible risk,0
+806,98.0,91.0,98.0,no possible risk,0
+807,104.0,87.0,123.0,possible risk,1
+808,105.0,88.0,118.0,possible risk,1
+809,103.0,98.0,81.0,no possible risk,0
+810,103.0,88.0,67.0,possible risk,1
+811,96.0,86.0,80.0,need further investigation,2
+812,99.0,96.0,99.0,no possible risk,0
+813,96.0,92.0,108.0,no possible risk,0
+814,99.0,95.0,92.0,no possible risk,0
+815,102.0,90.0,108.0,no possible risk,0
+816,99.0,96.0,81.0,no possible risk,0
+817,96.0,97.0,91.0,no possible risk,0
+818,101.0,90.0,79.0,no possible risk,0
+819,98.0,92.0,80.0,no possible risk,0
+820,102.0,97.0,127.0,no possible risk,0
+821,99.0,87.0,79.0,need further investigation,2
+822,105.0,94.0,65.0,no possible risk,0
+823,96.0,89.0,124.0,possible risk,1
+824,105.0,98.0,68.0,no possible risk,0
+825,98.0,96.0,113.0,no possible risk,0
+826,97.0,93.0,78.0,no possible risk,0
+827,103.0,86.0,70.0,possible risk,1
+828,102.0,90.0,103.0,no possible risk,0
+829,102.0,90.0,130.0,no possible risk,0
+830,96.0,91.0,115.0,no possible risk,0
+831,100.0,99.0,114.0,no possible risk,0
+832,105.0,97.0,64.0,no possible risk,0
+833,97.0,90.0,121.0,no possible risk,0
+834,104.0,87.0,114.0,possible risk,1
+835,99.0,94.0,116.0,no possible risk,0
+836,105.0,96.0,122.0,no possible risk,0
+837,103.0,88.0,97.0,possible risk,1
+838,105.0,98.0,118.0,no possible risk,0
+839,100.0,97.0,81.0,no possible risk,0
+840,104.0,91.0,116.0,no possible risk,0
+841,104.0,87.0,108.0,possible risk,1
+842,105.0,96.0,71.0,no possible risk,0
+843,105.0,89.0,126.0,possible risk,1
+844,99.0,91.0,88.0,no possible risk,0
+845,104.0,90.0,70.0,no possible risk,0
+846,97.0,87.0,91.0,possible risk,1
+847,97.0,95.0,94.0,no possible risk,0
+848,98.0,99.0,102.0,no possible risk,0
+849,100.0,90.0,126.0,no possible risk,0
+850,101.0,96.0,87.0,no possible risk,0
+851,103.0,97.0,68.0,no possible risk,0
+852,103.0,97.0,61.0,no possible risk,0
+853,96.0,98.0,90.0,no possible risk,0
+854,97.0,90.0,94.0,no possible risk,0
+855,97.0,91.0,64.0,no possible risk,0
+856,97.0,99.0,96.0,no possible risk,0
+857,99.0,97.0,78.0,no possible risk,0
+858,102.0,89.0,83.0,possible risk,1
+859,101.0,85.0,103.0,possible risk,1
+860,99.0,87.0,62.0,need further investigation,2
+861,105.0,91.0,119.0,no possible risk,0
+862,104.0,86.0,76.0,possible risk,1
+863,101.0,90.0,106.0,no possible risk,0
+864,104.0,91.0,98.0,no possible risk,0
+865,104.0,99.0,69.0,no possible risk,0
+866,103.0,86.0,101.0,possible risk,1
+867,99.0,85.0,128.0,possible risk,1
+868,99.0,91.0,102.0,no possible risk,0
+869,98.0,96.0,70.0,no possible risk,0
+870,98.0,88.0,121.0,possible risk,1
+871,98.0,91.0,94.0,no possible risk,0
+872,105.0,89.0,85.0,possible risk,1
+873,103.0,90.0,125.0,no possible risk,0
+874,100.0,97.0,93.0,no possible risk,0
+875,102.0,93.0,121.0,no possible risk,0
+876,97.0,95.0,88.0,no possible risk,0
+877,105.0,95.0,127.0,no possible risk,0
+878,96.0,96.0,98.0,no possible risk,0
+879,103.0,99.0,93.0,no possible risk,0
+880,98.0,86.0,70.0,need further investigation,2
+881,105.0,96.0,106.0,no possible risk,0
+882,96.0,99.0,71.0,no possible risk,0
+883,101.0,90.0,127.0,no possible risk,0
+884,102.0,92.0,64.0,no possible risk,0
+885,97.0,94.0,65.0,no possible risk,0
+886,101.0,88.0,77.0,possible risk,1
+887,103.0,89.0,110.0,possible risk,1
+888,98.0,97.0,83.0,no possible risk,0
+889,101.0,91.0,123.0,no possible risk,0
+890,98.0,89.0,123.0,possible risk,1
+891,104.0,86.0,102.0,possible risk,1
+892,102.0,87.0,95.0,possible risk,1
+893,98.0,96.0,99.0,no possible risk,0
+894,102.0,87.0,127.0,possible risk,1
+895,96.0,86.0,60.0,need further investigation,2
+896,104.0,92.0,72.0,no possible risk,0
+897,97.0,86.0,71.0,need further investigation,2
+898,97.0,96.0,77.0,no possible risk,0
+899,96.0,98.0,77.0,no possible risk,0
+900,96.0,86.0,64.0,need further investigation,2
+901,99.0,98.0,73.0,no possible risk,0
+902,101.0,91.0,67.0,no possible risk,0
+903,102.0,91.0,70.0,no possible risk,0
+904,101.0,95.0,88.0,no possible risk,0
+905,96.0,97.0,124.0,no possible risk,0
+906,103.0,96.0,122.0,no possible risk,0
+907,104.0,92.0,100.0,no possible risk,0
+908,97.0,95.0,68.0,no possible risk,0
+909,99.0,99.0,79.0,no possible risk,0
+910,104.0,87.0,90.0,possible risk,1
+911,100.0,86.0,71.0,possible risk,1
+912,97.0,97.0,76.0,no possible risk,0
+913,101.0,99.0,123.0,no possible risk,0
+914,100.0,86.0,75.0,possible risk,1
+915,98.0,87.0,98.0,possible risk,1
+916,104.0,94.0,85.0,no possible risk,0
+917,101.0,99.0,81.0,no possible risk,0
+918,105.0,91.0,129.0,no possible risk,0
+919,97.0,90.0,78.0,no possible risk,0
+920,100.0,87.0,99.0,possible risk,1
+921,100.0,85.0,75.0,possible risk,1
+922,100.0,97.0,98.0,no possible risk,0
+923,100.0,85.0,77.0,possible risk,1
+924,105.0,86.0,118.0,possible risk,1
+925,103.0,93.0,90.0,no possible risk,0
+926,102.0,97.0,86.0,no possible risk,0
+927,103.0,91.0,61.0,no possible risk,0
+928,97.0,99.0,108.0,no possible risk,0
+929,96.0,88.0,79.0,need further investigation,2
+930,103.0,88.0,89.0,possible risk,1
+931,96.0,93.0,65.0,no possible risk,0
+932,100.0,99.0,117.0,no possible risk,0
+933,103.0,92.0,73.0,no possible risk,0
+934,99.0,94.0,121.0,no possible risk,0
+935,98.0,95.0,82.0,no possible risk,0
+936,102.0,87.0,60.0,possible risk,1
+937,102.0,99.0,83.0,no possible risk,0
+938,104.0,92.0,91.0,no possible risk,0
+939,100.0,94.0,91.0,no possible risk,0
+940,96.0,95.0,81.0,no possible risk,0
+941,101.0,98.0,92.0,no possible risk,0
+942,97.0,90.0,90.0,no possible risk,0
+943,97.0,94.0,73.0,no possible risk,0
+944,105.0,88.0,97.0,possible risk,1
+945,103.0,85.0,81.0,possible risk,1
+946,101.0,99.0,122.0,no possible risk,0
+947,103.0,87.0,111.0,possible risk,1
+948,99.0,93.0,95.0,no possible risk,0
+949,102.0,89.0,128.0,possible risk,1
+950,103.0,95.0,100.0,no possible risk,0
+951,103.0,88.0,116.0,possible risk,1
+952,101.0,95.0,127.0,no possible risk,0
+953,103.0,91.0,66.0,no possible risk,0
+954,105.0,92.0,86.0,no possible risk,0
+955,96.0,96.0,119.0,no possible risk,0
+956,103.0,97.0,123.0,no possible risk,0
+957,97.0,93.0,76.0,no possible risk,0
+958,100.0,94.0,91.0,no possible risk,0
+959,96.0,91.0,72.0,no possible risk,0
+960,100.0,95.0,76.0,no possible risk,0
+961,103.0,93.0,93.0,no possible risk,0
+962,97.0,94.0,115.0,no possible risk,0
+963,104.0,91.0,80.0,no possible risk,0
+964,104.0,88.0,64.0,possible risk,1
+965,104.0,91.0,101.0,no possible risk,0
+966,100.0,92.0,83.0,no possible risk,0
+967,100.0,94.0,114.0,no possible risk,0
+968,100.0,92.0,106.0,no possible risk,0
+969,100.0,98.0,98.0,no possible risk,0
+970,103.0,92.0,64.0,no possible risk,0
+971,102.0,90.0,119.0,no possible risk,0
+972,97.0,92.0,84.0,no possible risk,0
+973,98.0,95.0,101.0,no possible risk,0
+974,96.0,97.0,83.0,no possible risk,0
+975,97.0,89.0,66.0,need further investigation,2
+976,102.0,91.0,65.0,no possible risk,0
+977,98.0,87.0,103.0,possible risk,1
+978,102.0,98.0,119.0,no possible risk,0
+979,99.0,96.0,72.0,no possible risk,0
+980,97.0,89.0,90.0,need further investigation,2
+981,100.0,96.0,89.0,no possible risk,0
+982,104.0,95.0,113.0,no possible risk,0
+983,98.0,96.0,94.0,no possible risk,0
+984,98.0,87.0,97.0,possible risk,1
+985,100.0,98.0,89.0,no possible risk,0
+986,100.0,98.0,117.0,no possible risk,0
+987,96.0,99.0,83.0,no possible risk,0
+988,100.0,92.0,109.0,no possible risk,0
+989,103.0,91.0,72.0,no possible risk,0
+990,99.0,91.0,71.0,no possible risk,0
+991,97.0,95.0,85.0,no possible risk,0
+992,100.0,92.0,106.0,no possible risk,0
+993,103.0,97.0,112.0,no possible risk,0
+994,96.0,89.0,96.0,possible risk,1
+995,99.0,92.0,113.0,no possible risk,0
+996,104.0,91.0,125.0,no possible risk,0
+997,102.0,87.0,113.0,possible risk,1
+998,105.0,89.0,94.0,possible risk,1
+999,104.0,93.0,110.0,no possible risk,0
